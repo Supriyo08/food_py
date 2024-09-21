@@ -1,16 +1,25 @@
-# campus_haat
+# Food Ordering App
 
-A new Flutter project.
+This project is a food ordering application developed as part of an assignment. The app allows users to browse food items, add them to a cart, and place orders.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Product listing with item details
+- Add items to cart
+- Checkout functionality with order confirmation
 
-A few resources to get you started if this is your first Flutter project:
+## Video Demonstration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can watch a video recording of the app in action [here](https://github.com/may-tas/campus_haat/blob/master/recording.mp4).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To run the app on your device:
+
+1. Download the latest release: [app_release.apk](https://github.com/may-tas/campus_haat/blob/master/app-release.apk).
+2. Install the APK on your Android device.
+
+## Usage
+
+After installation, open the app to start browsing food items and place your orders.
+
